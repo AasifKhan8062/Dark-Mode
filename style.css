@@ -1,0 +1,17 @@
+.DarkMode{
+  display:flex;
+  justify-content: end;
+}
+.name{
+   border-radius: 5vw;
+  background-color:transparent;
+  /* height: 15vw;
+  width: 15vw; */
+}
+.mode{
+  border: 0.1vw solid #a2a0a0;
+  border-radius: 5vw;
+  height:2vw;
+  width: 7vw;
+  
+}
